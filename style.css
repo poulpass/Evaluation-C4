@@ -1,0 +1,33 @@
+
+
+.images{
+	height: 100%;
+	width: 100%;
+}
+
+.sidetext{
+	background-color: silver;
+	vertical-align: middle;
+}
+
+.nopadding{
+	padding: 0px !important;
+}
+
+.cellule{
+	display: table-cell;
+	width: 50%;
+	background-color: silver;
+}
+
+.ligne{
+	display: table;
+	width: 100%;
+	background-color: silver;
+}
+
+.txtpadd{
+	padding-top: 30%;
+	padding-right: 15%;
+	padding-left: 15%;
+}
