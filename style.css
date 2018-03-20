@@ -1,33 +1,32 @@
-
-
-.images{
-	height: 100%;
-	width: 100%;
+.navlogo{
+	height: 125px;
+	margin: -20px;
+	margin-left: 20px;
 }
 
-.sidetext{
-	background-color: silver;
-	vertical-align: middle;
+.navico{
+	font-size: 75px;
+	color: #7DAB7A;
+	text-align: center;
 }
 
-.nopadding{
-	padding: 0px !important;
+.navbar, .navbar-light, .bg-light{
+	background-color: #E1EFE0 !important;
 }
 
-.cellule{
-	display: table-cell;
-	width: 50%;
-	background-color: silver;
+.center{
+    margin:auto;
+    float:none;
+    margin-left: 5%;
 }
 
-.ligne{
-	display: table;
-	width: 100%;
-	background-color: silver;
+.navico:hover{
+    color: #DDA771;
 }
 
-.txtpadd{
-	padding-top: 30%;
-	padding-right: 15%;
-	padding-left: 15%;
+.navico:active{
+    color: #DDA771;
 }
+
+
+
